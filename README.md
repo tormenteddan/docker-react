@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts ![travis ci](https://api.travis-ci.org/tormenteddan/docker-react.svg?branch=master)
 
 In the project directory, you can run:
 
