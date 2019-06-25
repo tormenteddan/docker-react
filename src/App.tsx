@@ -8,7 +8,7 @@ const App: React.FC = () => {
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
         <p>
-          WUU!
+          CI/CD is amAzon! :v
         </p>
         <a
           className='App-link'
